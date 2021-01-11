@@ -1,4 +1,4 @@
-# Analysis of Yelp Dataset
+# ANALYSIS OF YELP DATASET
 
 For this project, I analyzed 10Gb of Yelp dataset including business, checkin, review, tip, and users data. I downloaded it from Kaggle and uploaded to my AWS S3 bucket.
 
